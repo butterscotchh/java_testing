@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
+public class psvm {
+    public static void main(String[] args) {
 
-public class jzxhckzcj {
+        System.out.println("hdsbjkds");
+
+    }
 }
