@@ -21,5 +21,9 @@ public class Variable {
         System.out.println(firstname);
         System.out.println(lastname);
         System.out.println(middlename);
+
+        final String app = "Spotify";
+        app = "instagram";
+        System.out.println(app);
     }
 }
