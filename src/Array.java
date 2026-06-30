@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Array {
     static void main(String[] args) {
 
@@ -33,6 +35,16 @@ public class Array {
         System.out.println(namaNama[2]);
 
         System.out.println(array.length);
+
+        String[][] members = {
+                {"akbar", "gondez"},
+                {"abthal", "gundul"},
+                {"akthar", "gombal"}
+        };
+
+        System.out.println(members[0][1]);
+        System.out.println(members[1][0]);
+        System.out.println(members[2][0]);
 
     }
 }
