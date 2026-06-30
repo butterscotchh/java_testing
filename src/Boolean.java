@@ -1,4 +1,11 @@
-package PACKAGE_NAME;
-
 public class Boolean {
+    static void main(String[] args) {
+
+        boolean  a  = true;
+        boolean  b  = false;
+
+        System.out.println(a);
+        System.out.println(b);
+
+    }
 }
