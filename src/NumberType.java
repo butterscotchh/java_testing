@@ -15,5 +15,8 @@ public class NumberType {
         long inilong = 1000000;
         long inilong2 = 1000000L;
         long inilong3 = 1_000_000L;
+
+        System.out.println(inibyte);
+        System.out.println("mahasiswa");
     }
 }
