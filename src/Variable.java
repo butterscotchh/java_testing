@@ -23,7 +23,6 @@ public class Variable {
         System.out.println(middlename);
 
         final String app = "Spotify";
-        app = "instagram";
         System.out.println(app);
     }
 }
