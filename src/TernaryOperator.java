@@ -1,14 +1,9 @@
 public class TernaryOperator {
-    static void main(String[] args) {
+    public static void main(String[] args) {
 
         var nilai = 75;
-        String ucapan;
+        String ucapan = nilai >= 75 ? "Selamat" : "Sangat disayangkan";
+        System.out.println(ucapan);
 
-        if (nilai >= 75) {
-            ucapan = "anda lulus";
-        } else {
-            ucapan = "anda tidak lulus ";
-
-            System.out.println(ucapan);
     }
 }
