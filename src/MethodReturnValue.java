@@ -6,8 +6,8 @@ public class MethodReturnValue {
 
         System.out.println(sum(200, 200));
 
-        System.out.println(hitung(300, operase "+", 300));
-        System.out.println(hitung(400, operase "-", 400));
+        System.out.println(hitung(300,  "+", 300));
+        System.out.println(hitung(400,  "-", 400));
     }
 
 
